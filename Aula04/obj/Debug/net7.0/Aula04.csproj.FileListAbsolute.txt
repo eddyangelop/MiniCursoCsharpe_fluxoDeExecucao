@@ -1,0 +1,15 @@
+C:\Users\edson\Downloads\Documents\Cursos_mat_estudos\Cursos Dio\ControlandoEntradasCsharpe\Aula04\bin\Debug\net7.0\Aula04.exe
+C:\Users\edson\Downloads\Documents\Cursos_mat_estudos\Cursos Dio\ControlandoEntradasCsharpe\Aula04\bin\Debug\net7.0\Aula04.deps.json
+C:\Users\edson\Downloads\Documents\Cursos_mat_estudos\Cursos Dio\ControlandoEntradasCsharpe\Aula04\bin\Debug\net7.0\Aula04.runtimeconfig.json
+C:\Users\edson\Downloads\Documents\Cursos_mat_estudos\Cursos Dio\ControlandoEntradasCsharpe\Aula04\bin\Debug\net7.0\Aula04.dll
+C:\Users\edson\Downloads\Documents\Cursos_mat_estudos\Cursos Dio\ControlandoEntradasCsharpe\Aula04\bin\Debug\net7.0\Aula04.pdb
+C:\Users\edson\Downloads\Documents\Cursos_mat_estudos\Cursos Dio\ControlandoEntradasCsharpe\Aula04\obj\Debug\net7.0\Aula04.csproj.AssemblyReference.cache
+C:\Users\edson\Downloads\Documents\Cursos_mat_estudos\Cursos Dio\ControlandoEntradasCsharpe\Aula04\obj\Debug\net7.0\Aula04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edson\Downloads\Documents\Cursos_mat_estudos\Cursos Dio\ControlandoEntradasCsharpe\Aula04\obj\Debug\net7.0\Aula04.AssemblyInfoInputs.cache
+C:\Users\edson\Downloads\Documents\Cursos_mat_estudos\Cursos Dio\ControlandoEntradasCsharpe\Aula04\obj\Debug\net7.0\Aula04.AssemblyInfo.cs
+C:\Users\edson\Downloads\Documents\Cursos_mat_estudos\Cursos Dio\ControlandoEntradasCsharpe\Aula04\obj\Debug\net7.0\Aula04.csproj.CoreCompileInputs.cache
+C:\Users\edson\Downloads\Documents\Cursos_mat_estudos\Cursos Dio\ControlandoEntradasCsharpe\Aula04\obj\Debug\net7.0\Aula04.dll
+C:\Users\edson\Downloads\Documents\Cursos_mat_estudos\Cursos Dio\ControlandoEntradasCsharpe\Aula04\obj\Debug\net7.0\refint\Aula04.dll
+C:\Users\edson\Downloads\Documents\Cursos_mat_estudos\Cursos Dio\ControlandoEntradasCsharpe\Aula04\obj\Debug\net7.0\Aula04.pdb
+C:\Users\edson\Downloads\Documents\Cursos_mat_estudos\Cursos Dio\ControlandoEntradasCsharpe\Aula04\obj\Debug\net7.0\Aula04.genruntimeconfig.cache
+C:\Users\edson\Downloads\Documents\Cursos_mat_estudos\Cursos Dio\ControlandoEntradasCsharpe\Aula04\obj\Debug\net7.0\ref\Aula04.dll
